@@ -35,7 +35,7 @@ def wait():
             play("Exercise.mp3")
 
 if __name__ == '__main__':
-    exesec=60
-    drisec=10
-    eyesec=30
+    exesec=50
+    drisec=15
+    eyesec=20
     wait()
